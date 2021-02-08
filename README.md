@@ -1,16 +1,13 @@
-### Hi there 👋
+### Welcome
 
-<!--
-**kimusan/kimusan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my small space for weird and fun projects that I either work on or intent to contribute to (or might just want my own fork of). 
 
-Here are some ideas to get you started:
+Feel free to follow me or contribute to any of my small projects. You can also just drop me a message if you have something interesting to tell. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Some strange facts:
+- 🔭 I’m currently working on scripts to make CTF easier for me (and whoever wants to use my scripts)
+- 🌱 I’m currently learning pentensting tricks and trades - mainly via the [TryHackMe](https://tryhackme.com) and [HackTheBox](https://hackthebox.com) platforms
+- 👯 I’m looking to collaborate on script to implements a pentesting control-center via CLI (probably a python/ncurses thing)
+- 💬 Ask me about my keyboards (yeah I am one of those [mechanical keyboard geeks](https://www.reddit.com/r/MechanicalKeyboards/) )
+- 📫 How to reach me: [keybase](https://keybase.io/kimschulz), [Discord](https://discordapp.com/users/157741926886408193), [Twitter](https://twitter.com/kimschulz)
+- ⚡ Fun fact: Software hacker by day, Hardware hacker by night. 
