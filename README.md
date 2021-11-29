@@ -11,3 +11,5 @@ Feel free to follow me or contribute to any of my small projects. You can also j
 - 💬 Ask me about my keyboards (yeah I am one of those [mechanical keyboard geeks](https://www.reddit.com/r/MechanicalKeyboards/) )
 - 📫 How to reach me: [keybase](https://keybase.io/kimschulz), [Discord](https://discordapp.com/users/157741926886408193), [Twitter](https://twitter.com/kimschulz)
 - ⚡ Fun fact: Software hacker by day, Hardware hacker by night. 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kimusan&show_icons=true&line_height=23&count_private=true&theme=github_dark&hide_rank=true&hide_title=true" alt="kimusan's GitHub Stats" />
