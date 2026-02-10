@@ -14,4 +14,4 @@ Feel free to follow me or contribute to any of my small projects. You can also j
 - ⚡ Fun fact: Software hacker by day, Hardware hacker by night. 
 
 <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=kimusan&show_icons=true&line_height=23&count_private=true&theme=synthwave&hide_rank=true&hide_title=true" alt="kimusan's GitHub Stats" />
-<img align="center" src="ttps://github-readme-stats-fast.vercel.app/api/top-langs/?username=kimusan&theme=synthwave&hide_title=true" alt="Kimusan's top languages" />
+<img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kimusan&theme=synthwave&hide_title=true" alt="Kimusan's top languages" />
