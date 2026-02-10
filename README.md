@@ -13,4 +13,5 @@ Feel free to follow me or contribute to any of my small projects. You can also j
 - 📫 How to reach me: [Discord](https://discordapp.com/users/157741926886408193), [Mastodon](https://social.data.coop/kimschulz), [BlueSky](https://kimschulz.bsky.social/)
 - ⚡ Fun fact: Software hacker by day, Hardware hacker by night. 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kimusan&show_icons=true&line_height=23&count_private=true&theme=github_dark&hide_rank=true&hide_title=true" alt="kimusan's GitHub Stats" />
+<img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=kimusan&show_icons=true&line_height=23&count_private=true&theme=synthwave&hide_rank=true&hide_title=true" alt="kimusan's GitHub Stats" />
+<img align="center" src="ttps://github-readme-stats-fast.vercel.app/api/top-langs/?username=kimusan&theme=synthwave&hide_title=true" alt="Kimusan's top languages" />
