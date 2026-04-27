@@ -15,4 +15,3 @@ Feel free to follow me or contribute to any of my small projects. You can also j
 
 <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=kimusan&show_icons=true&line_height=23&count_private=true&theme=synthwave&hide_rank=true&hide_title=true" alt="kimusan's GitHub Stats" />
 <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kimusan&theme=synthwave&hide_title=true" alt="Kimusan's top languages" />
-<iframe src="https://github.com/sponsors/kimusan/card" title="Sponsor kimusan" height="225" width="600" style="border: 0;"></iframe>
